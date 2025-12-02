@@ -51,9 +51,8 @@ Adopto is a beautiful, modern mobile application designed to connect pet lovers 
 
 ## 📱 Screenshots
 
-| Home Screen | Pet Details | Breed Expert | Profile |
 |-------------|-------------|--------------|---------|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/details.png" width="200"> | <img src="screenshots/breed_expert.png" width="200"> | <img src="screenshots/profile.png" width="200"> |
+| <img src="Backend/images/Screenshot 2025-12-02 112459.png" width="200"> | <img src="screenshots/details.png" width="200"> | <img src="screenshots/breed_expert.png" width="200"> | <img src="screenshots/profile.png" width="200"> |
 
 ---
 
