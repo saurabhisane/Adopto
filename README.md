@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/app_icon.png" alt="Adopto Logo" width="150" height="150">
+  <img src="Backend/images/pawprint.png" alt="Adopto Logo" width="150" height="150">
 </p>
 
 Adopto is a beautiful, modern mobile application designed to connect pet lovers with their perfect furry companions. Built with Flutter, it offers a seamless adoption experience with advanced features like AI-powered breed information, location-based search, and a classy user interface.
