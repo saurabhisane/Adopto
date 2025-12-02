@@ -52,7 +52,7 @@ Adopto is a beautiful, modern mobile application designed to connect pet lovers 
 ## 📱 Screenshots
 
  <img src="Backend/images/Screenshot 2025-12-02 112459.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112540.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112654.png" width="250">  
- <img src="Backend/images/Screenshot 2025-12-02 112724.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112818.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112837.png" width="250"> 
+ <img src="Backend/images/Screenshot 2025-12-02 112724.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112837.png" width="250">  <img src="Backend/images/Screenshot 2025-12-02 112818.png" width="250">   
 ---
 
 ## 🛠️ Tech Stack
