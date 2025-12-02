@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Mia",
+    "breed": "Burmilla",
+    "age": "2 months",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Oliver",
+    "breed": "Australian Mist",
+    "age": "1 year",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?q=80&w=400&auto=format&fit=crop"
+  }
+]
